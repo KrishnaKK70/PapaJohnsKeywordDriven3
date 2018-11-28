@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<configurationTags>
+		
+		<MailUsername>kkishore6993@gmail.com</MailUsername>
+		<MailPassword>RAM888RAM</MailPassword>
+		<MailTo>kkishore6993@gmail.com</MailTo>
+		<MailCc>kkishore6993@gmail.com</MailCc>
+		<MailBcc>kkishore6993@gmail.com</MailBcc>
+		<MailSubject>Automation Test Report</MailSubject>
+	
+</configurationTags>
+

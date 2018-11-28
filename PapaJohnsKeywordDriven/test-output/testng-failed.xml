@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <test name="TestonChrome(failed)" parallel="tests">
+    <classes>
+      <class name="com.framework.keywords.RunTestCases">
+        <methods>
+          <include name="TestExecution"/>
+        </methods>
+      </class> <!-- com.framework.keywords.RunTestCases -->
+    </classes>
+  </test> <!-- TestonChrome(failed) -->
+</suite> <!-- Failed suite [Suite] -->
